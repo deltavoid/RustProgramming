@@ -1,0 +1,13 @@
+
+
+
+The rust language
+
+    https://kaisery.github.io/trpl-zh-cn/
+
+    https://rustcc.gitbooks.io/rustprimer/content/
+
+    https://doc.rust-lang.org/stable/rust-by-example/
+    https://rustwiki.org/zh-CN/rust-by-example/
+    
+    https://doc.rust-lang.org/1.0.0-alpha/book/
