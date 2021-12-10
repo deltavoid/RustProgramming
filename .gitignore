@@ -1,6 +1,8 @@
 
 target/
 
+scripts/rust_init.sh
+
 *.exe
 *.o
 
