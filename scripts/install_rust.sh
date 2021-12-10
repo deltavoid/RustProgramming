@@ -2,6 +2,10 @@
 set -xe
 
 
+apt-get install -y build-essential
+
+
+# curl https://sh.rustup.rs -sSf | sh
 
 curl https://sh.rustup.rs -sSf > scripts/rust_init.sh
 
